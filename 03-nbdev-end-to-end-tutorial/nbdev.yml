@@ -1,0 +1,8 @@
+project:
+  output-dir: _docs
+website:
+  repo-url: https://github.com/Korolen/scratch-space-for-play-explore
+  site-url: https://Korolen.github.io/scratch-space-for-play-explore
+  title: scratch-space-for-play-explore
+  description: Scratch space to play, explore, try things and answer questions.
+  repo-branch: dev
